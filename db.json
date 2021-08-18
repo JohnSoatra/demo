@@ -1,6 +1,7 @@
 {
   "user": {
     "id": 1,
-    "name": "Soatra"
+    "firstName": "John",
+    "lastName": "Soatra"
   }
 }
