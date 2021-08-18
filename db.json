@@ -1,7 +1,14 @@
-[
-  {
-    "id": 1,
-    "firstName": "John",
-    "lastName": "Soatra"
-  }
-]
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Soatra"
+    },
+    {
+      "id": 2,
+      "firstName": "Keang",
+      "lastName": "Engly"
+    }
+  ]
+}
